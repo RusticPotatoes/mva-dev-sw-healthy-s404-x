@@ -1,0 +1,2 @@
+- Monday: test_parse looked flaky on CI, a rerun passed. Keep an eye on it.
+- The DeprecationWarning in CI comes from the CI image, not from us.

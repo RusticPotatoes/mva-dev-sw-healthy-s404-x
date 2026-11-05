@@ -1,0 +1,9 @@
+$ python3 -m unittest discover -s tests
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK
+
+DeprecationWarning: the 'locale' module's getdefaultlocale is deprecated (harmless; emitted by the CI image)
+INFO coverage 78% (informational, no threshold)
